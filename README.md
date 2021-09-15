@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send me an email: mjribeiro@usp.br, my [website](https://mj-ribeiro.github.io/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Austrians and Marxists think they do science 😄😄😄
--->
