@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on computational economics, finance and economic growth
 - 🌱 I’m currently learning Calibration, econometrics and machine learning algorithms
 - 👯 I’m looking to collaborate on computational economics
